@@ -1,0 +1,5 @@
+date,line,product,cycle_time,temperature,defect,output
+2026-03-01,LINE1,A,32,28,0,120
+2026-03-01,LINE1,A,35,29,1,115
+2026-03-01,LINE2,B,40,27,0,140
+2026-03-01,LINE2,B,38,26,0,150
